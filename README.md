@@ -12,6 +12,9 @@
 
 
 
+## Dataset Source
+- https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+
 ## Roadmap
 
 - Setup connection between Jupyter Notebook and MySql database.
