@@ -3,16 +3,12 @@
 - Objective: AWS-EC2 deployed Book Recommendation System which extracts the data from MySql database and is deployed using Flask framework, PYTHON, MACHINE LEARNING.
 
 - Overview: Top 4 books are recommended using Popularity(Users, Rating), Collaborative Based System using Cosine Similarity metric for calculating Similarity Score.
-## Demo
-
-/home/umesh/Downloads/Screencast-from-05-01-23-105618.gif
-
 
 ## Screenshots
+![Screenshot from 2023-01-05 13-35-37](https://user-images.githubusercontent.com/73294581/210731777-8c9f715c-3df8-4eca-a981-416d294a3b6e.png)
 
-![Home Screenshot](file:///home/umesh/Pictures/Screenshots/Screenshot%20from%202023-01-05%2010-58-22.png)
-![Recommend Screenshot](file:///home/umesh/Pictures/Screenshots/Screenshot%20from%202023-01-05%2010-58-22.png)
-![Output Screenshot](file:///home/umesh/Pictures/Screenshots/Screenshot%20from%202023-01-05%2010-58-22.png)
+
+![Screenshot from 2023-01-05 13-36-31](https://user-images.githubusercontent.com/73294581/210731796-fda7d06f-edd5-44d4-998a-764dfc1eaa3e.png)
 
 
 
